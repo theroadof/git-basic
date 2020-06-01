@@ -29,5 +29,4 @@ Other useful commands to see what is going on the git repository:
 ## Practice Output 
 1. Your repo url in Github
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
-
-12313123421111111
+answer:add submit change to stage，commit submit change to local repository，push submit change to remote repository.
