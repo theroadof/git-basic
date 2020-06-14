@@ -1,3 +1,4 @@
 12314124124
 sadffasasd
 make change
+answer:add submit change to stage，commit submit change to local repository，push submit change to remote repository.
